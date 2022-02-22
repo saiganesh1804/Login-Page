@@ -1,0 +1,56 @@
+body{
+    background-color: #1a75ff;
+}
+
+h1{
+
+}
+
+.mid-div{
+    background-color: azure;
+    height: 50%;
+    width: 25%;
+    border-radius: 20px;
+    text-align: center;
+    margin: 178px auto;
+    padding: 30px;
+    display: ;
+}
+
+.login{
+    width: 70%;
+    margin: auto;
+    background-color: #1a75ff;
+    border-radius: 30px;
+    padding: 2px;
+    color: white;
+}
+
+input{
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+
+    color: #1a75ff;
+}
+
+.anchor-tag{
+    text-align: left;
+    margin-left: 63px;
+    margin-bottom: 10px;
+}
+
+#mid-div1{
+    padding: 20px;
+    background-color: azure;
+    height: 80%;
+    width: 25%;
+    border-radius: 20px;
+    text-align: center;
+    display : ; 
+    margin: 5% auto;
+}
+
+.btn{
+    margin: 20px;
+}
